@@ -5,13 +5,7 @@
 	 xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
 	 version="6.0">
 
-    <servlet>
-        <servlet-name>TailieumuontraDAO447</servlet-name>
-        <servlet-class>dao.TailieumuontraDAO447</servlet-class>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>TailieumuontraDAO447</servlet-name>
-        <url-pattern>/TailieumuontraDAO447</url-pattern>
-    </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>gdDangnhap447.jsp</welcome-file>
+    </welcome-file-list>
 </web-app>
