@@ -2,35 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Nhanvienthuvien447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/NguoidungDAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/TacgiaTailieu447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/doLuuPhieumuon447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/PhieumuonDAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/gdInPhieumuon447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/gdQuetTheDG447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/ThethuvienDAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/xacNhanMuon.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/NhanvienthuvienDAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/dg/gdTimkiemtailieu447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/DocgiaDAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/TailieuDAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Docgia447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/dg/gdXemchitiettailieu447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Thethuvien447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Nhanvien447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Nhaxuatban447.java</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Tailieu447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/gdDangnhap447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/gdQuetMaTL447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/gdQuanlyMuonTL447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Tacgia447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/gdChinhNV447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/dao/DAO447.java</file>
-            <file>file:/E:/PTIT/PTTK/web/dg/gdChinhDG447.jsp</file>
-            <file>file:/E:/PTIT/PTTK/web/nvtv/clearSession.jsp</file>
-            <file>file:/E:/PTIT/PTTK/src/java/model/Nguoidung447.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
